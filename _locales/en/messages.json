@@ -5,7 +5,7 @@
 
     },
     "extDesc": {
-        "message": "A blank new tab page with background color that follows the browser color theme.",
+        "message": "A blank new tab page with wallpaper.",
         "description":"The description of the extension, displayed in the web store."
     },
     "tabTitle": {
